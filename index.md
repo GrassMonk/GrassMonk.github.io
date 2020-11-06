@@ -6,7 +6,7 @@ layout: default
 
 [**MATTER project**](./MATTER/metamorphicTest.html).
 
-Text can be **BIG**, _italic_, or ~~strikethrough~~.
+Text can be **BIG**, _ialic_, or ~~strikethrough~~.
 
 
 
