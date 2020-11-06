@@ -4,7 +4,7 @@ layout: default
 
 # My Projects
 
-[**MATTER project**](./MATTER/metamorphicTest.html).
+[**MATTER project**](./MATTER/metamorphicTest.html)
 
 Text can be **BIG**, _ialic_, or ~~strikethrough~~.
 
