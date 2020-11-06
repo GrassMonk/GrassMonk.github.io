@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## About me
+# About me
 
 🤠 G'Day! I'm an educated software developer looking for professional experience in the IT industry. I pursue new knowledge with curiosity, and I learn best when I am creating something. On this website, you can use or read about some of my past and current projects that I've built in my own time or during my time at the University of Wollongong.
 
-## My Projects
+![me](./me.jpg)
+
+# My Projects
 
 ### MATTER
 #### University of Wollongong, CSCI318 Group Project
@@ -14,9 +16,9 @@ The Metamorphic Automatic Testing Tool for Evaluating Restful Web APIs, or MATTE
 
 [**MATTER link**](./MATTER/metamorphicTest.html)
 
+
+
 Text can be **BIG**, _ialic_, or ~~strikethrough~~.
-
-
 
 There should be whitespace between paragraphs.
 
