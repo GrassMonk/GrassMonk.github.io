@@ -2,9 +2,17 @@
 layout: default
 ---
 
+# About me
+
+🤠 G'Day! I'm an educated software developer looking for professional experience in the IT industry. I pursue new knowledge with curiosity, and I learn best when I am creating something with what I've learnt. On this website, you can use or read about some of my past and current projects that I built in my own time or during my time at the University of Wollongong.
+
 # My Projects
 
-[**MATTER project**](./MATTER/metamorphicTest.html)
+## MATTER
+### University of Wollongong, CSCI318 Group Project
+I was responsible for developing 
+
+[**MATTER link**](./MATTER/metamorphicTest.html)
 
 Text can be **BIG**, _ialic_, or ~~strikethrough~~.
 
