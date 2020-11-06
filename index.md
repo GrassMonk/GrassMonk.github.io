@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# About me
+## About me
 
-🤠 G'Day! I'm an educated software developer looking for professional experience in the IT industry. I pursue new knowledge with curiosity, and I learn best when I am creating something with what I've learnt. On this website, you can use or read about some of my past and current projects that I built in my own time or during my time at the University of Wollongong.
+🤠 G'Day! I'm an educated software developer looking for professional experience in the IT industry. I pursue new knowledge with curiosity, and I learn best when I am creating something. On this website, you can use or read about some of my past and current projects that I've built in my own time or during my time at the University of Wollongong.
 
-# My Projects
+## My Projects
 
-## MATTER
-### University of Wollongong, CSCI318 Group Project
+### MATTER
+#### University of Wollongong, CSCI318 Group Project
 The Metamorphic Automatic Testing Tool for Evaluating Restful Web APIs, or MATTER for short, was a project developed by myself and designed and documented with Tim Piert, Luke Dimovski and Arvind Thillainathan. Based off of research by Dr. ZhiQuan Zhou, the program uses [_metamorphic testing_](https://en.wikipedia.org/wiki/Metamorphic_testing) to determine whether the actual outputs from a RESTful web API match the expected results. This was a challenging project as I had to learn about an unfamiliar testing technique and apply it to a real-world system. 
 
 [**MATTER link**](./MATTER/metamorphicTest.html)
