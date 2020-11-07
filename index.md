@@ -13,12 +13,14 @@ layout: default
 ### MATTER
 #### University of Wollongong, CSCI318 Group Project
 The Metamorphic Automatic Testing Tool for Evaluating Restful Web APIs, or MATTER for short, was a project developed by myself and designed and documented with Tim Piert, Luke Dimovski and Arvind Thillainathan. Based off of research by Dr. ZhiQuan Zhou, the program uses [_metamorphic testing_](https://en.wikipedia.org/wiki/Metamorphic_testing) to determine whether the actual outputs from a RESTful web API match the expected results. This was a challenging project as I had to learn about an unfamiliar testing technique and apply it to a real-world system. 
+
 [**MATTER link**](./MATTER/metamorphicTest.html)
 
 ### Cabin Horror
 #### Self-Initiated
 The Cabin Horror is a basic game concept that I came up with where one must rob graves to find supplies and defend their cabin, however the more graves you rob, the more monsters begin hunting you! It is still in it's early stages of development. Try it out by clicking the link!
-[**Cabin Horror link**](./Cabin Horror.html)
+
+[**Cabin Horror link**](./CabinHorror/Cabin Horror.html)
 
 
 Text can be **BIG**, _ialic_, or ~~strikethrough~~.
