@@ -31,6 +31,12 @@ The Cabin Horror is a basic game concept that I came up with where one must rob 
 
 [**Cabin Horror link**](./CabinHorror/Cabin Horror.html)
 
+### Drop Bear
+#### University of Wollongong - CSCI236 Group Project. Autodesk Maya.
+
+We were required to make an advertisement using 3D animation. We decided to make a satirical ad about Drop Bear repellent. As group leader, I identified tasks, estimated their completion time and assigned tasks to team members according to their skills and preferences. I expressed my ideas so that everyone knew what I was envisioning, and actively encouraged team members to put forth their own ideas and constructive criticisms. This was a fun class which allowed me to be creative and practice my leadership skills. You can see the drop bear model and conceptual sketches that I made here:  
+
+[**Drop Bear link**](./DropBear.html)
 
 Text can be **BIG**, _ialic_, or ~~strikethrough~~.
 
