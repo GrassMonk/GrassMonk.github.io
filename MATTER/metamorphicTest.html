@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+		<meta content="utf-8" http-equiv="encoding">
+		<link rel="stylesheet" href="style/styles.css">
+    </head>
+    <body>
+		<div id="header">
+			<h1>MATTER</h1>
+			<h3 id="subtitle">Metamorphic Automatic Testing Tool for Evaluating Restful Web APIs</h3>
+			<hr />
+		</div>
+		<div id="mainBody">
+			<div id="mrops">
+				<h3>Metamorphic relation output patterns</h3><input type="button" value="show" onClick="showMrops()"/>
+			</div>
+			<h3>Choose your relation:</h3>
+			<form accept-charset=utf-8>
+				<input type="radio" name="mrelation" value="equivalence" checked="checked">Equivalence<br />
+				<input type="radio" name="mrelation" value="equality">Equality<br />
+				<input type="radio" name="mrelation" value="subset">Subset<br />
+				<input type="radio" name="mrelation" value="disjoint">Disjoint<br />
+				<input type="radio" name="mrelation" value="complete">Complete
+				<input type="checkbox" id="nondup"> Non-duplicative<br />
+				<input type="radio" name="mrelation" value="difference">Difference<br/>
+				<textarea id="diffSet" placeholder="Difference Set (seperate by ',')" rows="1" cols="73"></textarea><br />
+				<!--User relations-->
+				<div id="relations"></div>
+				<br/>
+				<!--Tabs-->
+				<div id="tabs">
+					<input type="button" value="Automatic" class="active" onClick="showAuto()"/><input type="button" value="Manual" class="unactive" onClick="showManual()"/><input type="button" value="Add API" class="unactive" onClick="showAddAPI()"/><input type="button" value="Add Relation" class="unactive" onClick="showAddRelation()"/>
+				</div>
+				<!--active tab-->
+				<div id="tabcontent">
+					<h3 id="innerTitle">Automatic Test Case Generation:</h3>
+					<div id="apis"></div>
+					Source data parameters:<br />
+					<input type="text" id="srcPara" size="95" placeholder="{&quot;parameter&quot;:&quot;value&quot;, ...}"/><br /><br />
+					Follow-up 0 data parameters:<br />
+					<input type="text" id="fu0Para" size="95" placeholder="{&quot;parameter&quot;:&quot;value&quot;, ...}"/><br />
+					<div id="addFollowup"></div>
+					<input type="button" id="folupButton" value="+ Follow-up" onClick="addFollowupElement()"/>
+					<br /><br />
+				</div>
+				<br />
+				<input type="button" id="test" value="Test" onClick="testIt()"/>
+			</form>
+			<div id="output"> </div>
+		</div>
+		<!--API SCRIPTS HERE-->
+		<script src="js/googleapi.js"></script>
+		<script src="js/jquery.js"></script>
+		<script src="js/script.js"></script>
+    </body>
+</html>
