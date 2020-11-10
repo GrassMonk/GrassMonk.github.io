@@ -9,7 +9,6 @@ layout: default
 ![me](https://i.imgur.com/1iozqdm.jpg)
 
 # My Projects
-* * *
 ### AIIA
 #### University of Wollongong - CSIT321. HTML, JS, CSS, JIRA, Python.
 
@@ -29,7 +28,7 @@ The Metamorphic Automatic Testing Tool for Evaluating Restful Web APIs (MATTER) 
 
 The Cabin Horror is a basic game concept that I came up with where one must rob graves to find supplies and defend their cabin, however the more graves you rob, the more monsters begin hunting you! It is still in it's early stages of development. Try it out by clicking the link!
 
-[**Cabin Horror link**](./CabinHorror/Cabin Horror.html)
+[**Cabin Horror link**](./CabinHorror/CabinHorror.html)
 * * *
 ### Drop Bear
 #### University of Wollongong - CSCI236 Group Project. Autodesk Maya.
