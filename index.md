@@ -9,28 +9,28 @@ layout: default
 ![me](https://i.imgur.com/1iozqdm.jpg)
 
 # My Projects
-
+* * *
 ### AIIA
 #### University of Wollongong - CSIT321. HTML, JS, CSS, JIRA, Python.
 
 The Artificial Intelligence for Issue Analytics (AIIA) plugin for Atlassian JIRA was my favourite experience at University. Supervised by Dr. Hoa Dam, I worked with entusiastic and coordinated team mates to produce a product which we were all proud of. The project involved predicting issue attributes based off the issue name and description using machine learning. I was responsible for creating a data visualisation to show relationships between issues in a JIRA project. We won third place at the School of Computing and Information Sciences Tradeshow (2019). You can find a link below which talks about the project's features in more detail.
 
 [**AIIA Blog link**](https://blog.developer.atlassian.com/artificial-intelligence-for-issue-analytics-a-machine-learning-powered-jira-cloud-app/)
-
+* * *
 ### MATTER
 #### University of Wollongong - CSCI318 Group Project. HTML, JS, CSS.
 
 The Metamorphic Automatic Testing Tool for Evaluating Restful Web APIs (MATTER) was a project developed by myself and designed and documented with Tim Piert, Luke Dimovski and Arvind Thillainathan. Based off of research by Dr. ZhiQuan Zhou, the program uses [_metamorphic testing_](https://en.wikipedia.org/wiki/Metamorphic_testing) to determine whether the actual outputs from a RESTful web API match the expected results. This was a challenging project as I had to learn about an unfamiliar testing technique and apply it to a real-world system. 
 
 [**MATTER link**](./MATTER/metamorphicTest.html)
-
+* * *
 ### Cabin Horror
 #### Self-Initiated. Unity Engine, C#.
 
 The Cabin Horror is a basic game concept that I came up with where one must rob graves to find supplies and defend their cabin, however the more graves you rob, the more monsters begin hunting you! It is still in it's early stages of development. Try it out by clicking the link!
 
 [**Cabin Horror link**](./CabinHorror/Cabin Horror.html)
-
+* * *
 ### Drop Bear
 #### University of Wollongong - CSCI236 Group Project. Autodesk Maya.
 
