@@ -38,7 +38,6 @@ For the CSCI236 group project, we were required to make an advertisement using 3
 
 [**Drop Bear link**](./DropBear.html)
 * * *
-* * *
 ## Self-Initiated
 ### Cabin Horror
 #### Unity Engine, C#.
