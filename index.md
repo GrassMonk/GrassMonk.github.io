@@ -15,6 +15,7 @@ layout: default
 The Artificial Intelligence for Issue Analytics (AIIA) plugin for Atlassian JIRA was my favourite experience at University. Supervised by Dr. Hoa Dam, I worked with entusiastic and coordinated team mates to produce a product which we were all proud of. The project involved predicting issue attributes based off the issue name and description using machine learning. I was responsible for creating a data visualisation to show relationships between issues in a JIRA project. We won third place at the School of Computing and Information Sciences Tradeshow (2019). You can find a link below which talks about the project's features in more detail.
 
 [**AIIA Blog link**](https://blog.developer.atlassian.com/artificial-intelligence-for-issue-analytics-a-machine-learning-powered-jira-cloud-app/)
+![me](https://blog.developer.atlassian.com/wp-content/uploads/2020/04/recommendations-gif.gif)
 * * *
 ### MATTER
 #### University of Wollongong - CSCI318 Group Project. HTML, JS, CSS.
