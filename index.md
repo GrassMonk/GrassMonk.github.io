@@ -61,3 +61,7 @@ The Cabin Horror is a basic game concept that I came up with where one must rob 
 
 Speed Reader was an idea inspired by a short video I saw that demonstrated how we can read faster if words are displayed one-by-one on the same spot. The aim of this program is to be able to do this with epub/mobi files, with features such as word rate adjustment, bookmarking, pausing and pagecount. 
 * * *
+
+#__Thanks for Visiting!__
+
+![drawing](https://i.imgur.com/N6IEG4a.jpg)
