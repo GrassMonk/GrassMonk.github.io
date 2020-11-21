@@ -13,8 +13,8 @@ Lately, I have been:
 
 On this website, you can read about and run some of my past and current projects that I've built in my own time or during my time at the University of Wollongong.
 
-[![linkedin][linkedin.png]][https://www.linkedin.com/in/oliver-rankin-starcevic-aaa1b917a/ ]
-[![github][github.png]][https://github.com/Rankstaro]
+[![linkedin](linkedin.png)](https://www.linkedin.com/in/oliver-rankin-starcevic-aaa1b917a/)
+[![github](github.png)](https://github.com/Rankstaro)
 
 ![me](https://i.imgur.com/1iozqdm.jpg)
 
