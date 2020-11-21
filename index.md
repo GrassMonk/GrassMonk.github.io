@@ -4,7 +4,7 @@ layout: default
 
 # About me
 
-🤠 G'Day! I'm a Computer Science graduate looking for professional experience in the IT industry. I pursue new knowledge with curiosity, and I learn best when I am creating something. I love making programs, drawing cartoons, walking and camping in the bush and enjoy movies, games and conversations with my friends. 
+🤠 G'Day! I'm a Computer Science graduate looking for professional experience in the IT industry. I pursue new knowledge with curiosity, and I learn best when I am creating something. My favourite projects explore technologies which broaden my perspective of what is possible with programming and fill me with a sense of wonder and pride. My hobbies include making programs, drawing cartoons, walking and camping in the bush and enjoying movies, games and conversations with my friends and family. 
 
 Lately, I have been:
 * Doing a short Python Data Analysis course by Coder Academy
@@ -62,4 +62,4 @@ The Cabin Horror is a basic game concept that I came up with where one must rob 
 Speed Reader was an idea inspired by a short video I saw that demonstrated how we can read faster if words are displayed one-by-one on the same spot. The aim of this program is to be able to do this with epub/mobi files, with features such as word rate adjustment, bookmarking, pausing and pagecount. 
 * * *
 
-# __Thanks for Visiting!__
+# _Thanks for Visiting!_
