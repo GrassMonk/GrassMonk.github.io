@@ -11,7 +11,7 @@ Lately, I have been:
 * Preparing for an [AI hackathon](https://www.gocoder.one/aisports) by Coder One with a group of friends from Uni
 * Working on my Speed Reader and Cabin Horror personal projects
 
-On this website, you can read about and run some of my past and current projects that I've built in my own time or during my time at the University of Wollongong.
+On this website, you can read about (and play with) some of my past and current projects that I've built in my own time or during my time at the University of Wollongong.
 
 [![linkedin](linkedin.png)](https://www.linkedin.com/in/oliver-rankin-starcevic-aaa1b917a/)
 [![github](github.png)](https://github.com/Rankstaro)
