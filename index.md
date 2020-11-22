@@ -8,13 +8,13 @@ layout: default
 
 Lately, I have been:
 * Doing a short Python Data Analysis course by Coder Academy
-* Preparing for an [AI hackathon](https://www.gocoder.one/aisports) by Coder One with a group of friends from Uni
+* Preparing for an [AI hackathon](https://www.gocoder.one/aisports){:target="_blank"} by Coder One with a group of friends from Uni
 * Working on my Speed Reader and Cabin Horror personal projects
 
 On this website, you can read about (and play with) some of my past and current projects that I've built in my own time or during my time at the University of Wollongong.
 
-[![linkedin](linkedin.png)](https://www.linkedin.com/in/oliver-rankin-starcevic-aaa1b917a/)
-[![github](github.png)](https://github.com/Rankstaro)
+[![linkedin](linkedin.png)](https://www.linkedin.com/in/oliver-rankin-starcevic-aaa1b917a/){:target="_blank"}
+[![github](github.png)](https://github.com/Rankstaro){:target="_blank"}
 
 ![me](https://i.imgur.com/1iozqdm.jpg)
 
@@ -28,28 +28,28 @@ The Artificial Intelligence for Issue Analytics (AIIA) plugin for Atlassian JIRA
 > 
 > &ndash; Associate Professor Hoa Khanh Dam
 
-[**AIIA Blog link**](https://blog.developer.atlassian.com/artificial-intelligence-for-issue-analytics-a-machine-learning-powered-jira-cloud-app/)
+[**AIIA Blog link**](https://blog.developer.atlassian.com/artificial-intelligence-for-issue-analytics-a-machine-learning-powered-jira-cloud-app/){:target="_blank"}
 * * *
 ### MATTER
 #### HTML, JS, CSS
 
-The Metamorphic Automatic Testing Tool for Evaluating Restful Web APIs (MATTER) was the CSCI318 Group project developed by myself and designed and documented with Tim Piert, Luke Dimovski and Arvind Thillainathan. Based off of research by Dr ZhiQuan Zhou, the program uses [_metamorphic testing_](https://en.wikipedia.org/wiki/Metamorphic_testing) to determine whether the actual outputs from a RESTful web API match the expected results. This was a challenging project as I had to learn about an unfamiliar testing technique and apply it to a real-world system. 
+The Metamorphic Automatic Testing Tool for Evaluating Restful Web APIs (MATTER) was the CSCI318 Group project developed by myself and designed and documented with Tim Piert, Luke Dimovski and Arvind Thillainathan. Based off of research by Dr ZhiQuan Zhou, the program uses [_metamorphic testing_](https://en.wikipedia.org/wiki/Metamorphic_testing){:target="_blank"} to determine whether the actual outputs from a RESTful web API match the expected results. This was a challenging project as I had to learn about an unfamiliar testing technique and apply it to a real-world system. 
 
-[**MATTER link**](./MATTER/metamorphicTest.html)
+[**MATTER link**](./MATTER/metamorphicTest.html){:target="_blank"}
 * * *
 ### Roly Poly
 #### Unity Engine, C#
 
 Roly Poly is a racing game made with Unity for the CSCI365 group project, where a player can customise their a ball and then race it against other balls on a track. This project was challenging as we had to brainstorm an initial concept and design the game from the ground up. Try it out by clicking the link!
 
-[**Roly Poly link**](./RolyPoly/RolyPoly.html)
+[**Roly Poly link**](./RolyPoly/RolyPoly.html){:target="_blank"}
 * * *
 ### Drop Bear
 #### Autodesk Maya
 
 For the CSCI236 group project, we were required to make an advertisement using 3D animation. We decided to make a satirical ad about Drop Bear repellent. As the group leader, I identified tasks, estimated their completion time and assigned tasks to team members according to their skills and preferences. I expressed my ideas so that everyone knew what I was envisioning, and actively encouraged team members to put forth their own ideas and constructive criticisms. This was a fun class which allowed me to be creative and practice my leadership skills. You can see the drop bear model and conceptual sketches that I made here:  
 
-[**Drop Bear link**](./DropBear.html)
+[**Drop Bear link**](./DropBear.html){:target="_blank"}
 * * *
 ## Self-Initiated
 ### Cabin Horror
@@ -57,7 +57,7 @@ For the CSCI236 group project, we were required to make an advertisement using 3
 
 The Cabin Horror is a basic game concept that I came up with where one must rob graves to find supplies and defend their cabin, however, the more graves you rob, the more monsters begin hunting you! It is still in its early stages of development. Try it out by clicking the link!
 
-[**Cabin Horror link**](./CabinHorror/CabinHorror.html)
+[**Cabin Horror link**](./CabinHorror/CabinHorror.html){:target="_blank"}
 * * *
 ### Speed Reader
 #### Python
